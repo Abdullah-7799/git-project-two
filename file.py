@@ -1,2 +1,1 @@
-def pil():
-    pass
+print("www")
